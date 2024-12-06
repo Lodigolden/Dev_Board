@@ -47,6 +47,64 @@
 			)
 		)
 	)
+	(sheet
+		(at 194.31 86.36)
+		(size 12.7 7.62)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ae2633ce-493f-4f45-9614-01a1975581df")
+		(property "Sheetname" "EEPROM"
+			(at 194.31 85.6484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "eeprom.kicad_sch"
+			(at 194.31 94.5646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SCL" bidirectional
+			(at 194.31 88.9 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "db4aedbc-2072-4699-bad0-3ae0fe297045")
+		)
+		(pin "SDA" bidirectional
+			(at 194.31 91.44 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "29a024f6-0a52-4ad0-b646-ea3a96cbfb18")
+		)
+		(instances
+			(project "Dev_Board"
+				(path "/ab11133b-b546-4233-b741-8575932eb964"
+					(page "3")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")

@@ -1,0 +1,220 @@
+<mxfile host="Electron" modified="2024-12-06T04:43:09.815Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="5vngSGeTR3vopS09xXf3" version="21.1.2" type="device">
+  <diagram name="Page-1" id="fJnWqq4VnNye6VuJgElf">
+    <mxGraphModel dx="989" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-1" value="M24C02-WMN6TP Pinout" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fillColor=#81B5FD;strokeColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="213" y="240" width="425" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-1">
+          <mxGeometry y="30" width="425" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-3" value="Pin Number" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#6C8EBF;fillColor=#81B5FD;fontStyle=1" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-2">
+          <mxGeometry width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-4" value="Pin Name" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fillColor=#81B5FD;strokeColor=#6C8EBF;fontStyle=1" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-2">
+          <mxGeometry x="60" width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-5" value="External Circuitry" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fillColor=#81B5FD;strokeColor=#6C8EBF;fontStyle=1" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-2">
+          <mxGeometry x="120" width="107" height="40" as="geometry">
+            <mxRectangle width="107" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-6" value="Justification" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fillColor=#81B5FD;strokeColor=#6C8EBF;fontStyle=1" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-2">
+          <mxGeometry x="227" width="198" height="40" as="geometry">
+            <mxRectangle width="198" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-7" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-1">
+          <mxGeometry y="70" width="425" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-8" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-7">
+          <mxGeometry width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-9" value="E0" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-7">
+          <mxGeometry x="60" width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-10" value="Tied to GND" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-7">
+          <mxGeometry x="120" width="107" height="40" as="geometry">
+            <mxRectangle width="107" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-11" value="Sets I2C address to 1010000X." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-7">
+          <mxGeometry x="227" width="198" height="40" as="geometry">
+            <mxRectangle width="198" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-12" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-1">
+          <mxGeometry y="110" width="425" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-13" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-12">
+          <mxGeometry width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-14" value="E1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-12">
+          <mxGeometry x="60" width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-15" value="Tied to GND" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-12">
+          <mxGeometry x="120" width="107" height="40" as="geometry">
+            <mxRectangle width="107" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-16" value="Sets I2C address to 1010000X." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-12">
+          <mxGeometry x="227" width="198" height="40" as="geometry">
+            <mxRectangle width="198" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-17" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-1">
+          <mxGeometry y="150" width="425" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-18" value="3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-17">
+          <mxGeometry width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-19" value="E2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-17">
+          <mxGeometry x="60" width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-20" value="Tied to GND" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-17">
+          <mxGeometry x="120" width="107" height="40" as="geometry">
+            <mxRectangle width="107" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-21" value="Sets I2C address to 13010000X.&lt;br&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-17">
+          <mxGeometry x="227" width="198" height="40" as="geometry">
+            <mxRectangle width="198" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-22" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-1">
+          <mxGeometry y="190" width="425" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-23" value="4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-22">
+          <mxGeometry width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-24" value="VSS" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-22">
+          <mxGeometry x="60" width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-25" value="Tied to GND" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-22">
+          <mxGeometry x="120" width="107" height="40" as="geometry">
+            <mxRectangle width="107" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-26" value="GND pin." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-22">
+          <mxGeometry x="227" width="198" height="40" as="geometry">
+            <mxRectangle width="198" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-27" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-1">
+          <mxGeometry y="230" width="425" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-28" value="5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-27">
+          <mxGeometry width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-29" value="SDA" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-27">
+          <mxGeometry x="60" width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-30" value="Tied to I2C_SDA" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-27">
+          <mxGeometry x="120" width="107" height="40" as="geometry">
+            <mxRectangle width="107" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-31" value="I2C SDA pin." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-27">
+          <mxGeometry x="227" width="198" height="40" as="geometry">
+            <mxRectangle width="198" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-32" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-1">
+          <mxGeometry y="270" width="425" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-33" value="6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-32">
+          <mxGeometry width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-34" value="SCL" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-32">
+          <mxGeometry x="60" width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-35" value="Tied to I2C_SCL" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-32">
+          <mxGeometry x="120" width="107" height="40" as="geometry">
+            <mxRectangle width="107" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-36" value="I2C SCL pin." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-32">
+          <mxGeometry x="227" width="198" height="40" as="geometry">
+            <mxRectangle width="198" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-37" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-1">
+          <mxGeometry y="310" width="425" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-38" value="7" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-37">
+          <mxGeometry width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-39" value="WC_B" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-37">
+          <mxGeometry x="60" width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-40" value="Tied to GND" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-37">
+          <mxGeometry x="120" width="107" height="40" as="geometry">
+            <mxRectangle width="107" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-41" value="If WC is tied to GND, write operations are enabled." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-37">
+          <mxGeometry x="227" width="198" height="40" as="geometry">
+            <mxRectangle width="198" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-127" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-1">
+          <mxGeometry y="350" width="425" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-128" value="8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-127">
+          <mxGeometry width="60" height="90" as="geometry">
+            <mxRectangle width="60" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-129" value="VCC" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-127">
+          <mxGeometry x="60" width="60" height="90" as="geometry">
+            <mxRectangle width="60" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-130" value="100 nF decoupling capacitor&lt;br&gt;&lt;br&gt;Tied to 3V3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-127">
+          <mxGeometry x="120" width="107" height="90" as="geometry">
+            <mxRectangle width="107" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkEmBoXuO4kzsvLa_E2L-131" value="Datasheet recommends 100 nF decoupling capacitor (Page 4)." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="SkEmBoXuO4kzsvLa_E2L-127">
+          <mxGeometry x="227" width="198" height="90" as="geometry">
+            <mxRectangle width="198" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
