@@ -583,11 +583,15 @@
     ],
     [
       "a553a54a-fe04-4dc9-a113-d63ce7e5925c",
-      "Main_MCU"
+      "Primary_MCU"
     ],
     [
       "ae2633ce-493f-4f45-9614-01a1975581df",
       "EEPROM"
+    ],
+    [
+      "a7e3c2ac-c0fc-4d92-b308-be0ed26f59a6",
+      "Temp_Sensor"
     ]
   ],
   "text_variables": {}

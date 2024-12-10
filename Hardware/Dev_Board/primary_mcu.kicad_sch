@@ -5,6 +5,7 @@
 	(uuid "52d9d3ef-8c60-4a7d-bcdb-d0ca022a3af5")
 	(paper "A4")
 	(title_block
+		(title "Primary MCU")
 		(company "Helena Hounds")
 	)
 	(lib_symbols
